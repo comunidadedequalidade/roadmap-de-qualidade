@@ -23,17 +23,7 @@ Cada módulo contém:
 
 ## 🚀 Como usar
 
-Basta abrir o arquivo `qa-roadmap.html` diretamente no browser — não precisa de servidor, instalação ou dependências.
-
-```bash
-# Clone ou baixe o repositório
-git clone https://github.com/seu-usuario/qa-roadmap
-
-# Abra no browser
-open qa-roadmap.html        # macOS
-start qa-roadmap.html       # Windows
-xdg-open qa-roadmap.html    # Linux
-```
+Basta abrir https://marilourenco.github.io/qa-roadmap/ diretamente no browser — não precisa de servidor, instalação ou dependências.
 
 ---
 
