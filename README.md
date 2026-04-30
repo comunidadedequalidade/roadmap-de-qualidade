@@ -1,106 +1,86 @@
-# 📋 QA Engineer Roadmap de Estudo
+# 🎯 Comunidade de Qualidade
 
-> Um guia completo e interativo para se tornar um QA Engineer moderno — do Júnior ao Sênior.
+> Um espaço pensado como ferramenta para estudo da Comunidade de Tecnologia, com foco em Qualidade de Software.
 
 ---
 
 ## 🧭 Sobre o projeto
 
-Este projeto é um **roadmap navegável de estudos para Quality Assurance**, organizado em três trilhas de senioridade:
+A **Comunidade de Qualidade** é um roadmap navegável e interativo que vai além do QA tradicional. A premissa é simples: qualidade de software é responsabilidade de todos — não só de quem testa.
 
-- 🟢 **Júnior** — fundamentos, testes manuais, Git, SQL e primeiros passos em automação
-- 🟠 **Pleno** — automação frontend/backend, CI/CD, acessibilidade, contract testing, feature flags
-- 🟣 **Sênior** — arquitetura de qualidade, chaos engineering, TestOps, compliance, microsserviços e liderança técnica
+Por isso o projeto tem três grandes espaços:
 
-Cada módulo contém:
-- 📖 Explicação do conteúdo com contexto prático
-- 🏋️ Exercícios rápidos para fixar o conhecimento
-- 🧪 Laboratórios guiados com passo a passo detalhado e código pronto
-- 📚 Cursos recomendados (gratuitos e pagos, em português e inglês)
-- 📰 Artigos e leituras complementares
+- 🎯 **Trilha QA** — o caminho estruturado do Júnior ao Sênior, com módulos, laboratórios e recursos para quem trabalha diretamente com qualidade
+- 🤝 **Qualidade para Outros Papéis** — trilhas independentes para Devs, POs, PMs, DevOps, UX, Analistas de Negócio e Scrum Masters aprenderem qualidade pela perspectiva do seu próprio papel
+- 📖 **Glossário de Qualidade** — todos os termos da comunidade em um único lugar, com busca rápida e definições em português
 
 ---
 
 ## 🚀 Como usar
 
-Basta abrir https://marilourenco.github.io/qa-roadmap/ diretamente no browser — não precisa de servidor, instalação ou dependências.
+Abra diretamente no browser — sem servidor, sem instalação, sem dependências:
+
+**[marilourenco.github.io/qa-roadmap](https://marilourenco.github.io/qa-roadmap/)**
 
 ---
 
 ## 📦 Conteúdo
 
+### 🎯 Trilha QA
+
 | Nível | Módulos | Labs | Exercícios |
 |-------|---------|------|------------|
 | 🟢 Júnior | 9 | 18 | 30+ |
-| 🟠 Pleno | 12 | 24 | 45+ |
-| 🟣 Sênior | 14 | 28 | 50+ |
-| **Total** | **35** | **70+** | **125+** |
+| 🟠 Pleno | 15 | 30+ | 55+ |
+| 🟣 Sênior | 18 | 35+ | 65+ |
+| ∞ Fundamentos Atemporais | 7 | 14 | 28+ |
 
-### 🟢 Trilha Júnior
-- O que é QA e o Mindset do Testador
-- Abordagens de Teste (Caixa Branca, Preta e Cinza)
-- Testes Manuais e Documentação
-- Metodologias Ágeis (Scrum, Kanban)
-- Técnicas de Teste (Partição, Valor Limite, Tabela de Decisão)
-- Git e Controle de Versão
-- Teste Exploratório
-- Gestão de Bugs
-- SQL para QA
+#### 🟢 Júnior — Fundamentos
+Mindset de QA · Tipos de Teste · Testes Manuais e Documentação · Metodologias Ágeis · Técnicas de Teste · Git e Versionamento · Teste Exploratório · Gestão de Bugs · SQL para QA · HTTP para QA · Portfólio e Carreira · Intro à Automação
 
-### 🟠 Trilha Pleno
-- Automação Frontend (Cypress, Playwright, Selenium)
-- Automação de API (Postman, REST Assured, Karate)
-- Estratégias de Teste (Smoke, Regressão, Integração)
-- Acessibilidade (WCAG, Axe, WAVE)
-- CI/CD e Pipelines (GitHub Actions, Jenkins)
-- TestRail e Gestão de Testes
-- Monitoramento e Relatórios (Allure, Grafana)
-- IA para Produtividade
-- Automação Mobile (Appium, Espresso)
-- Contract Testing com Pact
-- Service Virtualization (WireMock)
-- Feature Flags e Rollout Gradual
+#### 🟠 Pleno — Automação
+Automação Frontend (Cypress, Playwright, Selenium) · Automação de API (Postman, REST Assured, Karate) · Tipos e Estratégias de Teste · Acessibilidade (WCAG) · CI/CD e Pipelines · Gestão de Testes · Monitoramento · IA para Produtividade · Feature Flags · Gestão de Ambientes · **Segurança para QA (OWASP)** · **Performance para QA (k6)** · **Testes de Contrato (Pact)**
 
-### 🟣 Trilha Sênior
-- Arquitetura de Testes e Métricas de Qualidade
-- Performance e Testes de Carga (K6, JMeter)
-- Testes de Segurança (OWASP, SAST/DAST)
-- Mobile Avançado (Appium, Detox, BrowserStack)
-- Observabilidade e SLOs
-- IA Avançada e Agentes de Teste
-- Liderança Técnica em QA
-- SAFe e Qualidade em Escala
-- Qualidade em Todo o SDLC
-- Chaos Engineering
-- TestOps e QAOps
-- Compliance e Qualidade Regulatória
-- Microsserviços e Sistemas Assíncronos
-- Data Literacy e Métricas Estratégicas
+#### 🟣 Sênior — Arquitetura e Liderança
+Arquitetura de Testes · Performance e Carga · Segurança · Mobile Avançado · Observabilidade · IA e Agentes · Liderança Técnica · SAFe e Escala · Qualidade no SDLC · Chaos Engineering · TestOps · Compliance · Microsserviços · Data Literacy · Quality Engineering · FinOps de Testes · **Shift-Right Testing**
+
+#### ∞ Fundamentos Atemporais
+Competências que não pertencem a um nível — pertencem a todos os níveis ao mesmo tempo: Comunicação e Colaboração · Documentação de Testes · Mentalidade de Qualidade · Ética e Reporte Honesto · IA no dia a dia · Gestão de Tempo e Priorização · Qualidade no SDLC
 
 ---
 
-## 🤖 Como foi criado
+### 🤝 Qualidade para Outros Papéis
 
-Este projeto foi inteiramente gerado com o auxílio do **[Claude](https://claude.ai)**, assistente de IA da Anthropic, em uma conversa colaborativa onde foram definidos:
+Cada trilha é focada no que aquele papel faz no dia a dia para ser corresponsável pela qualidade das entregas — sem virar QA.
 
-- A estrutura de navegação por abas (Júnior, Pleno, Sênior)
-- O conteúdo técnico de cada módulo, exercícios e laboratórios
-- A identidade visual com paleta de cores azul
-- Os links de cursos e artigos em português e inglês
-- Os laboratórios práticos com código real e dicas de início
+| Trilha | Foco | Módulos |
+|--------|------|---------|
+| 💻 Desenvolvedor | Código testável, TDD, code review, pipeline | 6 |
+| 🎯 PO / PM | Critérios de aceite, DoD, bugs, métricas | 5 |
+| ⚙️ DevOps / SRE | Gates, observabilidade, confiabilidade, incidentes | 5 |
+| 🎨 UX / Design | Usabilidade, estados de interface, acessibilidade, handoff | 5 |
+| 📋 Analista de Negócio | Requisitos testáveis, rastreabilidade, regras, cenários | 5 |
+| 🔄 Scrum Master / Agile Coach | Processo, cerimônias, impedimentos, cultura, métricas | 5 |
 
-> *"O QA do futuro não é quem testa mais rápido, é quem previne melhor. E isso começa com estudo estruturado."*
+---
+
+### 📖 Glossário de Qualidade
+
+150+ termos organizados em 15 categorias, cobrindo todas as trilhas da comunidade:
+
+Fundamentos de Teste · Tipos e Abordagens · Processos e Metodologias · Automação · Performance · API e Técnico · Gestão e Qualidade · Desenvolvimento e Código · DevOps e Pipeline · UX e Design · Produto e Negócio · Agile e Scrum · Segurança · Performance e Carga · Testes de Contrato e Integração
 
 ---
 
 ## 🗺️ Inspiração
 
-O conteúdo foi estruturado com base no **[roadmap.sh/qa](https://roadmap.sh/qa)** — um dos guias de carreira mais respeitados da comunidade de tecnologia — expandido com:
+O conteúdo foi estruturado a partir do **[roadmap.sh/qa](https://roadmap.sh/qa)** e expandido com:
 
 - Contexto em português para profissionais brasileiros
 - Laboratórios práticos com ferramentas do mercado atual
-- Módulos de IA, TestOps e Compliance ausentes no roadmap original
-- Curadoria de cursos e artigos em português
+- Trilhas para outros papéis além do QA — uma abordagem que não existe em nenhum outro roadmap
+- Módulos de IA, TestOps, Shift-Right, Contrato e Compliance ausentes no roadmap original
+- Glossário unificado cobrindo toda a cadeia de qualidade de software
 
 ---
 
@@ -109,6 +89,18 @@ O conteúdo foi estruturado com base no **[roadmap.sh/qa](https://roadmap.sh/qa)
 - **HTML5 / CSS3 / JavaScript** puro — zero dependências externas
 - Fontes: [Sora](https://fonts.google.com/specimen/Sora) + [Inter](https://fonts.google.com/specimen/Inter) via Google Fonts
 - Totalmente offline após o primeiro carregamento das fontes
+
+---
+
+## 🤖 Como foi criado
+
+Este projeto foi desenvolvido em colaboração com o **[Claude](https://claude.ai)**, assistente de IA da Anthropic — desde a estrutura de navegação e identidade visual até cada módulo, exercício e laboratório.
+
+---
+
+## ✍️ Autoria
+
+Idealizado por **[Marilene Lourenço](https://www.linkedin.com/in/marilenelourenco/)** · Baseado no [roadmap.sh/qa](https://roadmap.sh/qa) · 2026
 
 ---
 
